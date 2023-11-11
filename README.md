@@ -1,2 +1,2 @@
 # final_project_DL_course_cancer_detection
-final project in deep learning course
+En el siguiente enlace, encuentran un video explicativo del desarrollo realizado:
